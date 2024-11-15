@@ -2,8 +2,8 @@
   "name": "portfolio",
   "homepage": "https://comforting-meerkat-19c4a9.netlify.app/",
   "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio",
-  "author": "Hamish Williams",
+  "repository": "https://github.com/amen-guetif/AmenGuetif",
+  "author": "Amen Guetif",
   "sideEffects": false,
   "type": "module",
   "scripts": {
